@@ -1,3 +1,3 @@
 # nawal2733-gmail.com
-# first "install npm install"
+# first Run "npm install"
 # then for run cucumber start "./node_modules/.bin/wdio ./wdio.conf.js"
